@@ -94,6 +94,7 @@ body {
 .card-bot-wrapper {
 	position: relative;
 	display: flex;
+	align-items: center;
 	justify-content: space-between;
 	width: 100%;
 }
